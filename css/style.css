@@ -186,6 +186,10 @@ footer{
     .main_beschreibung{
         padding-left: 20px;
     }
+
+    .main_cards{
+        padding-left: 20px;
+    }
 }
 
 @media only screen and (max-width: 980px){
