@@ -1,0 +1,92 @@
+Die Dokumentation des Projekts (Website für die Thema KI)
+
+Beteiligte ist das Team Gruppe 2.
+Mitglieder sind: Albina, Christian und Haubir
+
+Beschreibung des Vorhabens:
+Wir sollten eine nutzerfreundliche Website entwickeln, die um das Thema KI geht.
+Die Website sollte mit HTML, CSS, SVG, JavaScript Webtechnologien [PHP]realisiert werden. 
+Die Website soll alternativen zur jetzige wikipedia Seiten sein.
+
+Wir haben dafür ungefähr 14 Stunden Arbeit-Zeit.
+
+Die plannug findet sofort nach dem Kik-Off-Meeting statt und wird kurz danach schnellst möglich
+umgesetzt.
+
+Kikoff ist stattgefunden und wir haben viele wichtige Themen besprochen und die dazugehörigen 
+Entscheidungen getroffen.
+
+Logo und Slogen sind schnell krieiert und wir alle sind damit zufrieden
+
+In der ersten Meetings wurden die Plannug gemeinsamm gemacht und nach der Aufgabenaufteilung 
+schnell erledigt. Allerdings nicht so problemlos wie gedascht. Wir stehen vor einige Konflikte
+und Unstimmigkeiten, die wie schnell besitigen müssen.
+Am häufigesten haben wir das Problem mit der Aktualisierung der neuesten Version der Dateien,
+weil jeder arbeitet an Ihrem/seinem Rechner und speichert die Datei jedes mal neu.
+Die neue Dateien sollten danach die Teammitglieder mitgetielt werden bzw. hochgeladen werden,
+was nicht ganz praktich wirkt. Weil wenn ich auf eine Datei arbeite und einige Änderungen mache,
+will ich nicht noch eine andere Datei bekommen und die gleichen Äanderugen von Anfang an wieder mache.
+
+Nicht nur das, sondern die Formatierung der CSS-Dateien sind auch nicht ohne, da derjenige, der die Texte
+bearbeiten sollte wählt für die Seiten, die er/sie erstellen muss andere tags als derjenige der eine andere
+Seite erstellt. Das war ein bisschen tricky und hat und Nerven gekostet.
+
+Wir haben schnell und geeinigt, dass wir das Problem so beseitigen, indem derjenige, der die meisten Textbearbeitung
+übernimmt, der formatiert die Texte und der nächste wartet bis die Texte vollständig werden und danach macht
+er damit weiter. Es kostet ein bisschen Zeit aber muss halt so sein. Sonst werden wir sehr viele solche 
+Zeitfressern begegnen.
+Schnell gelöst und super funktioniert. Dank des Teamgeistes.
+
+Bei der Testen des Projektes wurde uns klar, dass wir ein paar Änderungen begehen müssen, wie das Logo und Slogen
+und die Stellen der Knöpfe usw.
+
+Um solche Sachen zuändern müssten wir nochmal zusammen setzen und die Angehensweise abstimmen.
+Das ist auch dank Teamgeist und zusammenarbeit schnell erledigt.
+
+Wir hatten vor, fast jeder Seite irgendwie anders formatieren z.B. anstatt nur ein Textfeld z textfelder und
+2 bilder platzieren abe wegen der Bewöhrung der Einheitlichkeit der Seite haben wir uns umentschieden.
+
+
+Hier ein Paar techniche Funktionen und formatierungen, die wir beachtet haben:
+Die Farben-theme ist festgelegt, nähmlich nur 2 farbig und die Weise farbe
+    Die Farben sind Dunkellila #242333, und babyblau #01b0d3.
+
+Hintergrund soll weiß bleiben und auf dunklene Liela geschrieben.
+Die Meta-Daten wie: Keywords, copyrite, author usw. sind berücksichtgt.
+
+Das Logo ist farblich und inhaltlich passend und mit SVG gemahct und inbettet.
+Das Logo dient auch als HomeBotton, wenn geklickt wird, wird die Seite Home bzw. index aufgerufen.
+Das Icon auf Addressbar ist auch vorhanden, wenn die Seite aufgerufen wird, wird dort zusehen.
+Die Slogen ist passend zu unseren Seiten und entspricht grob die Inhalte.
+Die Karten, die sich auf der Home-Seite befinden sind auch verlinkt und einheitlich gedesiged.
+Die Texte "Contets" sind sorgfältig passend zu der Thema ausgewählt.
+Die Bilder haben wir möglichst nähr zu den Themen gewählt und platziert.
+Bei jeder Seite gibt es eine "nachoben" Funktion.
+Es wurden die Tags, mit dennen die Texte formatieret werden benutzt.
+Die Rahmen der Bilder sind gleich gerundet wie die Knöpfe.
+Die Knöpfe sind boxartig und bei der Wahl einer Seite wird die gewählte seite anders gefärbt
+    damit der Benutzer weißt auf welcher Seiter er sich befindet.
+Die Farbenkombination der Bilder sind passend zu der Theme der Seite.
+Header ist so formatieret mit den Knöpfen, sodass das Design mehr dynamisch aussieht,
+    indem der Header in der Mitte der Knöpfe aufhört und das Logo den ersten Knöpf überfliegt.
+
+Footer ist ganz am unteren Seite der Website fixiert mit den dazugehörigen Funktionen
+Wir haben ein ChatBot inbetiert, womit man ein Beispiel der KI auf der Stelle testen kann
+Eine Kontaktformula mithilfe der JS wurde erstellt, die bei der betätigung automatisch das 
+    interne Emailingsprogramm aufruft und die richtige E-Mail-addresse eingibt.
+
+Mit der Suchfunktion wird auf google nach der gewünschten gesucht.
+Die Seiten Impressum, Copyrite und Kontakt sind auf jeder Seite zusehen.
+
+
+Responsive Design für PC, Tablet und Handy vorhanden und verstellbar.
+
+Am Ende des Projektes, haben wir die Website jeder einzelne Funktionen durchgegangen und zum glück 
+funktionieren alle wie gewollt.
+
+Danke..
+
+
+
+Mit besten freundlichen Grüßen
+Gruppe 2 (Albina und Christian und Haubir)

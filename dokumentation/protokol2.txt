@@ -1,0 +1,28 @@
+Meeting 2. am 14.September
+Meetingsdauer 40 Minuten.
+Teilnehmer/n (Albina, Christian & Haubir)
+
+Besprechungsthemen:
+    1. Zusammen online sich um ein Design einigen.
+    2. Aufgabenverteilung
+    3. Planung nächstes Meeting
+
+
+Detail der Theman:
+    Das Design hat uns ziemlich viel Zeit gekostet, da wir mit der App. Sigma online 
+    und detailiert das HomePage mit Farben und Textarten usw. gedesignet hatten.
+
+    Die Aufteilung der Aufgaben (Wer macht was) ging sehr zügig und problemlos.
+
+    Die Aufgaben worden so aufgeteilt:
+        Albina: Die Header & Footer und die Formatiereung der Knöpfe
+        Christian:  sucht nach passende Texte und lädt sie alle in den Ordner hoch.
+
+        Haubir: Das Protokoll und Agenda für die Meetings, passende Bilder für die Seiten
+                finden und in passenden Formaten speichern und die Seiten <div> s so
+                formatieren, dass die Texte und die Bilder zusammen in einem Page
+                dagestellt werden.
+
+Nächstes Meeting nach Bedarf wird sofort stattfinden.
+
+Haubir .K
